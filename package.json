@@ -1,0 +1,14 @@
+{
+  "name": "fake-server-manage-panel",
+  "version": "1.0.0",
+  "description": "A fake copy of the server panel of a future in mind server panel",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ammar Razzak",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
